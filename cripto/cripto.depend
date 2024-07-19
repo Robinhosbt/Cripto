@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718154593 source:c:\users\aluno\downloads\cripto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
